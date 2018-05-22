@@ -1,6 +1,6 @@
 # Redimop
 
-Short script to resize and/or optimize images on a selected folder.
+Short script to resize and/or optimize jpg and png images on a selected folder.
 
 ### Dependencies
 
