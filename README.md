@@ -10,7 +10,7 @@ The script uses `jpegoptim` and `optipng` to optimize the images and `imagemagic
 
 Download the script and set executions permissions with the command:
 
-`chmod +x script.sh`
+`chmod +x redimop.sh`
 
 Just follow the instructions. The script lets the user enter the path of the folder where the images are located. Then it lets the user choose to resize and/or optimize the images. If the user choose to resize the images it will ask the maximum width and maximum height. The script will always preserve the aspect ratio of the images. 
 
