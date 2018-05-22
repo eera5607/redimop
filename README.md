@@ -34,13 +34,14 @@ To install the latest version of `jpegoptim`, download and extract the file from
 ./configure
 make
 make strip
-make install
+sudo make install
 ```
 To install the latest version of `optipng`, download and extract the file from the [official website](http://optipng.sourceforge.net/) and execute this commands on the extracted folder:
 ```
 ./configure
 make
 make test
+sudo make install
 ```
 imagemagick comes by default on Ubuntu but you can check using this command:
 
